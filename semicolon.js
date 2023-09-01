@@ -7,3 +7,4 @@ function foo() {
 }
 
 console.log(foo(), typeof x, typeof y);
+//git
