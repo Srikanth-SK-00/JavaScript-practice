@@ -39,6 +39,10 @@
 
 //   return digitPattern.test(inputString);
 // }
+
+
+
+
 // const a="a1b2ghi3";
 // console.log(a.split("").filter((am=>containsDigits(am) )))
 
