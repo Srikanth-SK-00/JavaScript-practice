@@ -123,14 +123,19 @@
 // add()
 
 //closure
-function add()
-{
-    var a='srikanth';
-    function name(params) {
-        console.log(params,a)
+// function add()
+// {
+//     var a='srikanth';
+//     function name(params) {
+//         console.log(params,a)
         
-    }
-    return name
+//     }
+//     return name
  
-}
-add()(2);
+// }
+// add()(2);
+
+//slice
+// arr=['a', 'b', 'c', 'd', 'e']
+
+// console.log(arr.splice(0,3,'erg'));
